@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Ali Yılmaz",
+      "address": "Ankara, Türkiye",
+      "phoneNumber": "0555 123 4567",
+      "email": "ali.yilmaz@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Ayşe Kaya",
+      "address": "Ankara, Türkiye",
+      "phoneNumber": "0534 987 6543",
+      "email": "ayse.kaya@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Mehmet Demir",
+      "address": "Ankara, Türkiye",
+      "phoneNumber": "0535 456 7890",
+      "email": "mehmet.demir@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Zeynep Öztürk",
+      "address": "Ankara, Türkiye",
+      "phoneNumber": "0536 234 5678",
+      "email": "zeynep.ozturk@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Can Yıldız",
+      "address": "Ankara, Türkiye",
+      "phoneNumber": "0545 678 9012",
+      "email": "can.yildiz@hotmail.com"
+    }
+]
